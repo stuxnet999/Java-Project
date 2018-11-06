@@ -14,7 +14,7 @@ These are the Contents which are available are listed below.
 
 | Name of the Folder | Content Inside |
 |:------------------:|:--------------:|
-| [Source](./sourcecode)| Contains ".java" files |
+| [Source](./Source-Code)| Contains ".java" files |
 | [Class-File](./Java-Class-Files)| Contains ".class" files |
 |[Examples](./Example-Files)| These are just example files I made when testing the programme|
 

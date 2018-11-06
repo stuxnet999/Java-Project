@@ -1,4 +1,6 @@
 import java.util.*;
+import java.io.*;
+
 public class Functions{
 
   static StudentDetails currentStudent;
@@ -29,6 +31,15 @@ public class Functions{
 
   public static void getStudent(){
     Functions.currentStudent.print();
+  }
+
+  public static boolean check(String file){
+    String filename="../files/"+file;
+    File f = new File(filename);
+    if(f.exists()){
+      return true;
+    }
+    return false;
   }
 
 }

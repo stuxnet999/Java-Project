@@ -12,7 +12,7 @@ public class StudentLogin extends StudentManip{
     Functions.currentStudent=studDet;
     Functions.clrscr();
     Functions.getStudent();
-    DisplayCourses dc = new DisplayCourses(studDet.getRollno());
-    dc.run();
+    DisplayStudentMenu dsm = new DisplayStudentMenu(studDet.getRollno());
+    dsm.run();
   }
 }
