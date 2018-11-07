@@ -1,6 +1,6 @@
 # Java-Project
 
-This repository contains the sourcecode for a CLI based **Student Diary** application which is built on java.
+This repository contains the sourcecode for a GUI based **Explorer** application which is built on java.
 
 This project will be under constant development and those who wish to contribute to this may create issues and pull requests.
 
@@ -21,7 +21,6 @@ These are the Contents which are available are listed below.
 | [Source](./Source-Code)| Contains ".java" files |
 | [Class-File](./Java-Class-Files)| Contains ".class" files |
 
-You may notice that there is an [compile.py](./sourcecode/compile.py). It is a python based file which seperates the class files from the java source code files and places each of them in a different directory. The purpose of it is only that. I used it because I wanted to make things look tidy. 
 
 Please contribute to this repository.
 
