@@ -1,6 +1,6 @@
 # Java-Project
 
-This repository contains the sourcecode for a GUI based **Explorer** application which is built on java.
+This repository contains the sourcecode for a GUI based android **Online Ordering** application which is built on java.
 
 This project will be under constant development and those who wish to contribute to this may create issues and pull requests.
 
@@ -11,16 +11,6 @@ Please don't spam the **issues** section and also don't make fake pull requests.
 **Class**  : S-3, CSE-A
 
 **Roll. No.**: AM.EN.U4CSE17052
-
-### Contents
-
-These are the Contents which are available are listed below.
-
-| Name of the Folder | Content Inside |
-|:------------------:|:--------------:|
-| [Source](./Source-Code)| Contains ".java" files |
-| [Class-File](./Java-Class-Files)| Contains ".class" files |
-
 
 Please contribute to this repository.
 
